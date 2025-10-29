@@ -1,0 +1,23 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" width="128" height="128" viewBox="0 0 128 128">
+  <title>LABSEC icon</title>
+
+  <!-- Shield background -->
+  <path d="M64 4 L108 20 L108 70 C108 100 80 118 64 124 C48 118 20 100 20 70 L20 20 Z" fill="#c21c1c" stroke="#7d0f0f" stroke-width="2"></path>
+
+  <!-- Padlock body -->
+  <rect x="46" y="50" width="36" height="28" fill="#ffffff"></rect>
+
+  <!-- Padlock shackle -->
+  <path d="M52 50 A12 12 0 0 1 76 50" fill="none" stroke="#ffffff" stroke-width="4"></path>
+
+  <!-- Keyhole -->
+  <circle cx="64" cy="64" r="4" fill="#7d0f0f"></circle>
+  <rect x="62" y="68" width="4" height="6" fill="#7d0f0f"></rect>
+
+  <!-- Circuit dots -->
+  <circle cx="36" cy="92" r="3" fill="#ff6666"></circle>
+  <circle cx="92" cy="92" r="3" fill="#ff6666"></circle>
+  <line x1="36" y1="92" x2="48" y2="84" stroke="#ff6666" stroke-width="2"></line>
+  <line x1="92" y1="92" x2="80" y2="84" stroke="#ff6666" stroke-width="2"></line>
+</svg>
